@@ -417,7 +417,7 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  font-size: 250px;
+  font-size: 150px;
   color: #f0f0f0;
   font-weight: 700; }
   @media screen and (max-width: 768px) {
@@ -1113,7 +1113,7 @@ header {
     display: -moz-inline-stack;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
     width: 20px;
     height: 2px;
     color: #000;
